@@ -130,7 +130,7 @@ CREATE TABLE tasks (
 
 ## 👩‍💻 Author
 
-Built by Savitha ✨
+Built by Eshwari✨
 
 ---
 
